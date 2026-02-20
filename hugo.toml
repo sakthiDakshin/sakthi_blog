@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/sakthiDakshin/sakthi_blog'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
