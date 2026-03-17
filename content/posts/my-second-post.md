@@ -2,6 +2,7 @@
 title: "Unit 2: The Nature of Information Problems and Modeling"
 date: 2026-03-17
 draft: false
+weight = 2
 ---
 
 # Deep Dive into Information Problems: Unit 2 Reflection
