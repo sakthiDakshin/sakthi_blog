@@ -3,6 +3,7 @@ date = '2026-02-04T12:40:15+05:30'
 draft = false
 title = 'My First Post'
 +++
-"VANAKKAM DA MAPLA"
+ # What is Information:
+       In the first class, we learnt the relationship between Data and Information.
 
-  I am Dakshin student at Azim Premji University 
+
