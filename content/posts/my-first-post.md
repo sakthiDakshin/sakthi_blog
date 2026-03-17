@@ -4,5 +4,7 @@ draft = false
 title = 'My First Post'
 +++
 
-# What is Information
+# What is Information:
+
+&#x20; IN the first class ,we learnt the relationship between Data and Information.
 
