@@ -4,6 +4,6 @@ draft = false
 title = 'My First Post'
 +++
  # What is Information:
-       In the first class, we learnt the relationship between Data and Information.
+   In the first class, we learnt the relationship between Data and Information.
 
 
