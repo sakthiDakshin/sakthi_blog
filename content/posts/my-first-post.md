@@ -2,6 +2,7 @@
 date = '2026-02-04T12:40:15+05:30'
 draft = false
 title = "Unit 1: What is Information Science?"
+weight = 1
 +++
 
 # Simple Guide to Information Science (Unit 1)
