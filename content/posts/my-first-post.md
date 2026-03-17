@@ -18,9 +18,6 @@ The most important part of this unit is the **DIKW Pyramid**. It shows the journ
 
 
 
-![DIKW Pyramid](https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DIKW_Pyramid.svg/800px-DIKW_Pyramid.svg.png)
-
-
 ### 2. How Much Can Our Brain See?
 We also studied **Data Visualization**. Our brains have limits. When a graph has too many colors, shapes, or lines, we get confused. This is called a cognitive limit. Experts say a human can only understand 3 to 5 variables at once. Simple graphs are better than complex ones!
 
