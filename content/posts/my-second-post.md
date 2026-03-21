@@ -19,7 +19,7 @@ Everything in our digital world needs numbers to function further. We explored d
 ## 2. Image Processing: Turning Pixels into Data
 Based on Steven L. Tanimoto’s readings, we learned that an image is not just a picture but a massive **matrix of numbers**.
 
-* **The Pixel Level:** Each pixel has a numerical value representing its brightness or color.
+* **The Pixel Level:** Each pixel has a numerical value which representing its brightness or color.
 * **Transformation Problems:** When we "transform" an image it is likely changing its brightness or rotating it, we are essentially applying mathematical formulas to thousands of pixels simultaneously. This taught me that image processing is the perfect intersection of math, logic, and visual art.
 
 ## 3. Abstraction and the Bridges of Königsberg
@@ -34,4 +34,4 @@ We also looked at how to model an **Elevator System**. Modeling is about creatin
 ---
 
 ### Conclusion
-Unit 2 has shifted my perspective. I now realize that Information Science is about **"Optimization."** In Unit 2, it is about finding the shortest path across a bridge or converting a file to save space, whatever it is, our goal is to solve problems with maximum efficiency and minimum complexity
+Unit 2 has shifted my perspective. I now realize that Information Science is about **"Optimization."** In Unit 2, it is about finding the shortest path across a bridge or converting a file to save space. Whatever it is, our goal is to solve problems with maximum efficiency and minimum complexity
