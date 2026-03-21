@@ -7,7 +7,7 @@ weight = 1
 
 # Simple Guide to Information Science (Unit 1)
 
-I am a student of B.Sc. Information Science. Recently, I started my first unit. It was very interesting to learn how we use data in our daily lives. Here is a summary of what I learned.
+Recently, I started my first unit. It was very interesting to learn how we use data in our daily lives. Here is a summary of what I learned.
 
 ### 1. The DIKW Model
 The most important part of this unit is the **DIKW Pyramid**. It shows the journey from raw facts to smart decisions.
@@ -25,4 +25,4 @@ We also studied **Data Visualization**. Our brains have limits. When a graph has
 ### 3. Learning from Bangalore Census
 We practiced these ideas using the Bangalore Census data. I learned that data is not enough. We must explain it to help people. As students, we bridge the gap between hard numbers and easy understanding.
 
-**Conclusion:** Unit 1 taught me that Information Science is about helping humans understand the world using data!
+**Conclusion:** Unit 1 taught me that Information Science is about helping humans to understand the world using data!
