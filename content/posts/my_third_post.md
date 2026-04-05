@@ -1,5 +1,5 @@
 +++
-title = "The Precision of Failure: Reflecting on Systems and Safety"
+title = "Unit 3 - Reflecting on Failure : The Precision of Failure on Systems and Safety" 
 date = 2026-03-31
 draft = false
 weight = 3
