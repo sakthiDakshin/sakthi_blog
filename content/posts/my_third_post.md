@@ -1,18 +1,19 @@
-Unit 3: Embracing the "Right Kind of Wrong" - My Reflections on Failure
-Unit 3 has been a real eye-opener for me. Initially, like most people, I viewed failure as something to be avoided at all costs. But through our discussions and the Failure wiki project, my perspective has shifted significantly.
++++
+title = "The Precision of Failure: Reflecting on Systems and Safety"
+date = 2026-03-31
+draft = false
+weight = 3
++++
 
-Connecting the Dots
-In my previous blogs, I focused on the technicalities of information systems. However, this unit made me realize that even the most advanced systems are prone to failure if we don't account for human factors and complex interactions. Working on the Mars Climate Orbiter (MCO) case study was a classic example. It wasn't just a "math error" between metric and imperial units; it was a systemic failure in communication and validation.
+# From Calculation to Complexity: My Unit 3 Reflection
 
-Key Learnings from Amy Edmondson
-Reading Right Kind of Wrong: The Science of Failing Well by Amy Edmondson helped me categorize failures. I learned that:
+Unit 3 has been a different one from other Units in the journey through Information Science. While the first two units were about the data and modeling which talks about  how it works and what was it for but this unit forced me to confront the "what-if" of systemic collapse. It moved my focus from technical perfection to human resilience.
 
-Intelligent Failures are actually good—they happen in new territories where we learn something valuable.
+## The Cost of a Unit: Mars Climate Orbiter
+A key part of my learning came from collaborating with Group 9  tand I had been worked on the [Mars Climate Orbiter (MCO) case study](https://wiki.bris.apucomputing.in/doc/failure-wiki-group-9-lnpQf06maD). It was a sobering realization that a $125 million mission was lost due to a simple discrepancy between Metric and English units (Imperial Units). This taught me that information failure is rarely just a "coding error"; it is often a failure of communication and a lack of holistic "Systems Thinking." I realized that as a developer, I cannot work in a silo from every other piece of information which must be validated across the entire system.
 
-Basic Failures (like the MCO unit error) are preventable and should be minimized through better systems.
+## Rethinking Mistakes with Amy Edmondson
+Reading  the Chapter 8 of *Right Kind of Wrong* by Amy Edmondson provided the theoretical framework, I needed to process these failures. Her concept of **"Intelligent Failure"** was particularly liberating. I learned that while the MCO was a preventable **"Basic Failure,"** we must leave room for experimentation where failure leads to discovery. This requires "Psychological Safety," where team members feel empowered to speak up about discrepancies before they escalate.
 
-Challenges and Insights
-The most challenging part was introspection. It’s easy to analyze NASA’s mistakes, but harder to look at my own learning process and admit where my assumptions were wrong. This unit taught me that "psychological safety" is not just a buzzword; it’s essential for any team to report errors before they turn into disasters.
-
-Conclusion
-This journey from Unit 1 (What is information?) to Unit 3 has taught me that being an information scientist isn't just about managing data—it's about managing the uncertainty and vulnerability that comes with it. I’m now more comfortable with the idea of "failing well."
+## Personal Takeaway
+The most challenging part of this unit was admitting that technology is only as reliable as the humans managing it. I’ve moved away from the assumption of infallibility. My goal now isn't just to build systems that work, but to build systems that are transparent and "fail-safe." This unit has taught me that reflection is not just an academic exercise—it is a professional necessity.
