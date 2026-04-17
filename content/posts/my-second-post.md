@@ -10,20 +10,20 @@ weight = 2
 Unit 2 has been a wonderful journey. We moved beyond just defining "Information" and started looking at how complex real-world problems are broken down into logical solutions that a computer can handle.
 
 ## 1. The Language of Computers: Number Systems
-Everything in our digital world needs numbers to function further. We explored different number systems that form the backbone of computing:
+Everything in our digital world needs numbers to function further.We looked at different number systems that are the basis of computing:
 
-* **Binary (Base 2):** The core language of Binary is 0s and 1s. We practiced binary addition and subtraction to perform calculations.
-* **Hexadecimal (Base 16):** This was particularly interesting because it showed us how long binary strings are simplified for human useage, especially in memory addressing and color coding (like `#FFFFFF` for white).
+* **Binary (Base 2):** TThe main language of Binary is 0s and 1s. To do math, we practiced adding and subtracting in binary.
+* **Hexadecimal (Base 16):** This was very interesting because it showed us how long binary strings are made easier for people to use, especially when it comes to memory addressing and color coding (like #FFFFFF for white).
 * **Conversions:** Understanding how to flip between Decimal, Binary, and Hex is not just a math exercise; it is about understanding how data is represented across different layers of a computer system.
 
 ## 2. Image Processing: Turning Pixels into Data
 Based on Steven L. Tanimoto’s readings, we learned that an image is not just a picture but a massive **matrix of numbers**.
 
 * **The Pixel Level:** Each pixel has a numerical value which representing its brightness or color.
-* **Transformation Problems:** When we "transform" an image it is likely changing its brightness or rotating it, we are essentially applying mathematical formulas to thousands of pixels simultaneously. This taught me that image processing is the perfect intersection of math, logic, and visual art.
+* **Transformation Problems:** When we "transform" an image it is likely changing its brightness or rotating it, we are essentially applying mathematical formulas to thousands of pixels simultaneously. This showed me that image processing is the best way to combine math, logic, and art.
 
 ## 3. Abstraction and the Bridges of Königsberg
-One of the highlights of this unit was the **Bridges of Königsberg** problem. This 18th-century puzzle taught us about **Graph Theory**.
+The Bridges of Königsberg problem was one of the best parts of this unit. This puzzle from the 18th century taught us about **Graph Theory**.
 
 * **The Problem:** Is it possible to walk through the city and cross each of its seven bridges exactly once?
 * **The Lesson (Abstraction):** Leonhard Euler solved this not by looking at the beautiful city or the river, but by simplifying the land into "nodes" and bridges into "edges." This is **Abstraction** the ability to remove unnecessary details to solve a core problem.
