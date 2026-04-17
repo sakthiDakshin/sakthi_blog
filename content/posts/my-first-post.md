@@ -7,15 +7,15 @@ weight = 1
 
 # Simple Guide to Information Science (Unit 1)
 
-Recently, I started my first unit. It was very interesting to learn how we use data in our daily lives. Here is a summary of what I learned.
+I recently began my first unit. It was very interesting to find out how we use data every day. This is what I learned in a nutshell.
 
 ### 1. The DIKW Model
 The most important part of this unit is the **DIKW Pyramid**. It shows the journey from raw facts to smart decisions.
 
 * **Data:** These are raw numbers or symbols. For example, ages in a census book are data.
-* **Information:** When we organize data, it becomes information. For example, saying "The average age in Bangalore is 30" gives the data a meaning.
+* **Information:** Data becomes information when we put it in order. For instance, saying "The average age in Bangalore is 30" gives the numbers a meaning.
 * **Knowledge:** This is about finding a pattern. If we know which areas have more young people, we have knowledge.
-* **Wisdom:** This is the final step. We use our knowledge to make great decisions, like building more schools in crowded areas.
+* **Wisdom:** This is the last step. We use what we know to make good choices, like putting more schools in areas that are already crowded.
 
 
 
