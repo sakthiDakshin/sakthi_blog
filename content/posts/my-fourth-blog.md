@@ -1,4 +1,11 @@
-My Experiences Creating Conversational AI & Analyzing Data: Learning Typebot & Metabase
++++
+date = '2026-05-07T12:40:15+05:30'
+draft = false
+title = "Unit 4"
+weight = 1
++++
+
+# My Experiences Creating Conversational AI & Analyzing Data: Learning Typebot & Metabase
 
 I have completed two very hands-on projects that have dramatically altered my view of how software is designed and analyzed. The first project was creating an interactive chatbot to support the Unmukt cultural festival through Typebot. The second project involved performing business analysis by utilizing Metabase. At first, these tools seemed to have two completely different uses with regard to their intended application, one is a medium for communicating in a creative way through chat while other allows for data and numerical analysis through charts and tables.As I worked on both projects, I had realized that there is an intersection between conversational design and data analytics. This post serves to share my personal insights throughout the process.
 
