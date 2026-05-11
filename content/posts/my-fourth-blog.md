@@ -1,8 +1,8 @@
 +++
-date = '2026-05-07T12:40:15+05:30'
-draft = false
 title = "Unit 4 - Projects on communicating information"
-weight = 4
+date = 2026-05-7
+draft = false
+weight = 7
 +++
 
 # My Experiences Creating Conversational AI & Analyzing Data: Learning Typebot & Metabase
