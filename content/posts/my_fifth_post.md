@@ -1,4 +1,9 @@
-
++++
+title = "Unit 5: Consederation for the Information Scientist"
+date = 2026-05-11
+draft = false
+weight = 5
++++
 
 # Coding Against the Odds: My Reflection as an Observer
 
