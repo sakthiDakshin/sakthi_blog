@@ -2,7 +2,7 @@
 title = "Unit 4 - Projects on communicating information"
 date = 2026-05-7
 draft = false
-weight = 7
+weight = 4
 +++
 
 # My Experiences Creating Conversational AI & Analyzing Data: Learning Typebot & Metabase
